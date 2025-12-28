@@ -227,7 +227,7 @@ header * {
 }
 #menu .btn{
     display: block;
-    margin: 35px auto 0;
+    margin: 20px auto 0;
     background:#ecb500;
     color: #fff;
     cursor: pointer;
@@ -382,7 +382,7 @@ form input,textarea{
     #about .about-content p{
         margin: 2rem;
     }
-    #about .about-content img{
+    #about img{
         width: 250px;
     }
     #offers .offres-items img{
@@ -417,7 +417,7 @@ form input,textarea{
         #about .about-content a{
             margin: 2rem 0;
         }
-        #about .about-content img{
+        #about img{
             margin: auto;
         }
         #offers{
